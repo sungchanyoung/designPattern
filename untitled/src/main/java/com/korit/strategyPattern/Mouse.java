@@ -1,6 +1,6 @@
 package com.korit.strategyPattern;
 
-public class main {
+public class Miouse extends Animal {
     private String name = "쥐";
 
     public String getName(){
